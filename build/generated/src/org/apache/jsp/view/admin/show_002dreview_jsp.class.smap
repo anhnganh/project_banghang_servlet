@@ -1,0 +1,20 @@
+SMAP
+show_002dreview_jsp.java
+JSP
+*S JSP
+*F
++ 0 show-review.jsp
+view/admin/show-review.jsp
+*L
+5,5:54
+10:59,3
+11,23:62
+33:119,11
+34:130
+35,6:131,3
+41:149
+42:150,5
+43,3:155
+45,11:87
+56:98,3
+*E

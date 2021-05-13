@@ -1,0 +1,15 @@
+SMAP
+addcate_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcate.jsp
+view/admin/addcate.jsp
+*L
+5,4:44
+9:48,3
+10,9:51
+19:60,3
+20,27:63
+47:90,3
+*E
